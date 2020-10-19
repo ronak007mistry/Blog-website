@@ -1,0 +1,34 @@
+/* carousel button */
+.carousel-button {
+    background: transparent;
+    border-radius: 15% ;
+    font-size: 150% ;
+    border-color: whitesmoke;
+    color: whitesmoke;
+}
+/*blog button*/
+.blog-button {
+    background: transparent;
+    border-radius: 5% ;
+    font-size: 100% ;
+    border-color: whitesmoke;
+    color: whitesmoke;
+
+}
+/*IMAGE STYLE*/
+.img-style {
+
+    height: 100%;
+    width: 100%;
+}
+
+.container-style {
+    height: 100%;
+    width: 100%
+}
+
+/* Text coloe */
+.text-color {
+    color: whitesmoke;
+}
+/* images text */
